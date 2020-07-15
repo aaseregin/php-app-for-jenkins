@@ -89,7 +89,7 @@ section.instructions ul {
 section.instructions ul li {
     margin-left: 0;
     padding-left: 0;
-    color: #f90;
+    color: rgb(9, 255, 0);
     font-size: 0.875em;
     line-height: 1.5em;
 }
