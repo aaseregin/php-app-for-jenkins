@@ -45,7 +45,7 @@ section.congratulations h1 {
 section.congratulations h2 {
     text-shadow: 1px 1px 0 #334;
     font-size: 1.25em;
-    color: #ff0000;
+    color: blue;
     line-height: 1.5em;
     margin: 0 0 25px 0; 
 section.congratulations p {
